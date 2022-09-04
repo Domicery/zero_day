@@ -1,1 +1,1 @@
- _add a description of the project_
+ _description of the project_
